@@ -21,13 +21,17 @@ most importantly what happens in case of switch
 ##### Visual Representation
 
 1) 10 Tries
+
 ![10](samples/10.png)
  
 2) 100 Tries
+
 ![100](samples/100.png)
 
 3) 1000 Tries
+
 ![1000](samples/1000.png)
 
 4) 1000000 Tries
+
 ![1000000](samples/1000000.png)
